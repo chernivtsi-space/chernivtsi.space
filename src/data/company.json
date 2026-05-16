@@ -1,0 +1,282 @@
+{
+  "_id": "",
+  "name": "Chernivtsi Space",
+  "lang": "uk",
+  "locale": "uk_UA",
+  "siteUrl": "https://chernivtsi-space.github.io",
+  "description": "Ready-made websites, GPT and online discoverability, launch support, and ongoing developer care for Chernivtsi businesses.",
+  "email": "hello@chernivtsi-space.github.io",
+  "phone": "+380 372 000 000",
+  "address": "Chernivtsi, Ukraine",
+  "mapHref": "https://example.com/chernivtsi-space/maps",
+  "region": "Chernivtsi",
+  "country": "Ukraine",
+  "logo": "logo.png",
+  "defaultSeo": {
+    "title": "Ready-made websites for Chernivtsi businesses | Chernivtsi Space",
+    "description": "Chernivtsi Space creates ready-made websites for local businesses, improves discoverability in GPT and online, and supports launch and monthly updates.",
+    "keywords": [
+      "Chernivtsi Space",
+      "Chernivtsi business websites",
+      "ready-made websites",
+      "small business website Chernivtsi",
+      "restaurant website Chernivtsi",
+      "GPT discoverability",
+      "online visibility"
+    ],
+    "author": "Chernivtsi Space",
+    "robots": "index, follow",
+    "image": "/assets/og-image.svg",
+    "type": "website",
+    "twitterCard": "summary_large_image"
+  },
+  "pageSeo": {
+    "/": {
+      "title": "Ready-made websites for Chernivtsi businesses | Chernivtsi Space",
+      "description": "Launch a polished business website for Chernivtsi with fast delivery, strong structure, GPT and search visibility, and ongoing developer support.",
+      "image": "/assets/og-image.svg"
+    },
+    "/our-work": {
+      "title": "Website examples for local businesses | Chernivtsi Space",
+      "description": "See sample website directions for cafes, restaurants, bars, hotels, shops, and local services built around clear content and SEO-ready structure.",
+      "image": "/assets/land.jpg"
+    },
+    "/our-team": {
+      "title": "Team behind Chernivtsi Space",
+      "description": "Meet the developers and operators behind Chernivtsi Space who build, launch, and support ready-made business websites.",
+      "image": "/assets/profile/honchar-denys.jpg"
+    },
+    "/merch": {
+      "title": "Brand merch and add-ons | Chernivtsi Space",
+      "description": "Browse Chernivtsi Space branded items and extra offer ideas presented with the same fast, content-first website structure.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/cart": {
+      "title": "Cart | Chernivtsi Space",
+      "description": "Review selected merch items before checkout.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/sales": {
+      "title": "Offers and launch packages | Chernivtsi Space",
+      "description": "Review launch offers, content update packages, and focused website improvements for local businesses in Chernivtsi.",
+      "image": "/assets/og-image.svg"
+    },
+    "/articles": {
+      "title": "Articles on SEO and discoverability | Chernivtsi Space",
+      "description": "Read practical articles on website structure, local SEO, GPT discoverability, and content decisions for small business websites.",
+      "image": "/assets/og-image.svg"
+    },
+    "/reviews": {
+      "title": "Client feedback and trust signals | Chernivtsi Space",
+      "description": "See reviews and trust-building proof points around the websites and launch support offered by Chernivtsi Space.",
+      "image": "/assets/og-image.svg"
+    },
+    "/events": {
+      "title": "Events and workshops | Chernivtsi Space",
+      "description": "Explore workshops, sessions, and business events focused on local websites, content structure, and online visibility.",
+      "image": "/assets/og-image.svg"
+    },
+    "/jobs": {
+      "title": "Jobs at Chernivtsi Space",
+      "description": "Open roles for content, frontend, and website delivery work focused on fast marketing sites for local businesses.",
+      "image": "/assets/og-image.svg"
+    },
+    "/faq": {
+      "title": "Frequently asked questions | Chernivtsi Space",
+      "description": "Find answers about ready-made websites, launch process, support model, and discoverability work for Chernivtsi businesses.",
+      "image": "/assets/og-image.svg"
+    },
+    "/faq/agent": {
+      "title": "Agent FAQ | Chernivtsi Space",
+      "description": "Internal agent FAQ for the Chernivtsi Space project.",
+      "robots": "noindex, follow"
+    },
+    "/faq/developer": {
+      "title": "Developer FAQ | Chernivtsi Space",
+      "description": "Internal developer FAQ for the Chernivtsi Space project.",
+      "robots": "noindex, follow"
+    },
+    "/navigation": {
+      "title": "Site navigation | Chernivtsi Space",
+      "description": "Quick access to the main pages of the Chernivtsi Space website.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/socials": {
+      "title": "Contacts and social links | Chernivtsi Space",
+      "description": "Reach Chernivtsi Space through phone, email, messengers, listings, and social networks from one contact page.",
+      "image": "/assets/logo.png"
+    }
+  },
+  "structuredData": {
+    "type": "ProfessionalService",
+    "addressLocality": "Chernivtsi",
+    "addressCountry": "UA",
+    "areaServed": "Chernivtsi",
+    "serviceType": [
+      "Ready-made websites for businesses",
+      "Website launch setup",
+      "Monthly website support",
+      "GPT and online discoverability"
+    ],
+    "sameAs": [
+      "https://example.com/chernivtsi-space/instagram",
+      "https://example.com/chernivtsi-space/facebook",
+      "https://example.com/chernivtsi-space/linkedin"
+    ]
+  },
+  "info": {
+    "eyebrow": "Ready-made websites for Chernivtsi businesses",
+    "title": "Help your business stand out in Chernivtsi, on GPT, and online",
+    "lead": "We prepare a ready website solution, present it clearly, connect your business, and support it every month.",
+    "focus": "Chernivtsi businesses",
+    "highlights": [
+      "Ready solution",
+      "Fast launch",
+      "Monthly support",
+      "Built by real developers"
+    ],
+    "services": [
+      "Modern website",
+      "Mobile-ready pages",
+      "Visibility on GPT and online",
+      "Admin panel if needed",
+      "Multi-language support",
+      "Hosting and maintenance",
+      "Bug fixes within agreement",
+      "Future feature development"
+    ],
+    "businessCategories": [
+      {
+        "title": "Restaurants & cafes",
+        "description": "Menus, bookings, offers, delivery links, and a polished first impression."
+      },
+      {
+        "title": "Hotels & tourism",
+        "description": "Rooms, location, local attractions, booking paths, and clear information for guests."
+      },
+      {
+        "title": "Beauty & wellness",
+        "description": "Services, treatments, trust signals, and simple ways for clients to book."
+      },
+      {
+        "title": "Clinics & professional services",
+        "description": "Clear service pages, credibility, contact details, and practical local visibility."
+      },
+      {
+        "title": "Education & training",
+        "description": "Courses, enrolment paths, schedules, and clear information for parents or learners."
+      },
+      {
+        "title": "Shops & local brands",
+        "description": "Brand story, products, store details, and online trust for local buyers."
+      }
+    ],
+    "benefits": [
+      "Chernivtsi-focused business approach",
+      "Ready-made launch model",
+      "Real developers behind the work",
+      "Clear support structure",
+      "Flexible paid improvements",
+      "Transferable project ownership"
+    ]
+  },
+  "socials": [
+    {
+      "label": "Instagram",
+      "value": "@chernivtsispace.demo",
+      "href": "https://example.com/chernivtsi-space/instagram",
+      "type": "instagram"
+    },
+    {
+      "label": "Facebook",
+      "value": "/chernivtsispace.demo",
+      "href": "https://example.com/chernivtsi-space/facebook",
+      "type": "facebook"
+    },
+    {
+      "label": "TikTok",
+      "value": "@chernivtsispace.demo",
+      "href": "https://example.com/chernivtsi-space/tiktok",
+      "type": "tiktok"
+    },
+    {
+      "label": "YouTube",
+      "value": "@chernivtsispace-demo",
+      "href": "https://example.com/chernivtsi-space/youtube",
+      "type": "youtube"
+    },
+    {
+      "label": "Threads",
+      "value": "@chernivtsispace.demo",
+      "href": "https://example.com/chernivtsi-space/threads",
+      "type": "threads"
+    },
+    {
+      "label": "X",
+      "value": "@chernivtsi_space",
+      "href": "https://example.com/chernivtsi-space/x",
+      "type": "x"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Chernivtsi Space Demo",
+      "href": "https://example.com/chernivtsi-space/linkedin",
+      "type": "linkedin"
+    },
+    {
+      "label": "Pinterest",
+      "value": "chernivtsi-space-demo",
+      "href": "https://example.com/chernivtsi-space/pinterest",
+      "type": "pinterest"
+    }
+  ],
+  "messengers": [
+    {
+      "label": "Telegram",
+      "value": "@chernivtsispace_demo",
+      "href": "https://example.com/chernivtsi-space/telegram",
+      "type": "telegram"
+    },
+    {
+      "label": "Viber",
+      "value": "+380 372 000 000",
+      "href": "https://example.com/chernivtsi-space/viber",
+      "type": "viber"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "+380 372 000 000",
+      "href": "https://example.com/chernivtsi-space/whatsapp",
+      "type": "whatsapp"
+    }
+  ],
+  "listings": [
+    {
+      "label": "Google Business",
+      "value": "Chernivtsi Space Demo",
+      "href": "https://example.com/chernivtsi-space/google-business",
+      "type": "google-business"
+    },
+    {
+      "label": "Tripadvisor",
+      "value": "Chernivtsi Space Demo",
+      "href": "https://example.com/chernivtsi-space/tripadvisor",
+      "type": "tripadvisor"
+    },
+    {
+      "label": "Bolt Food",
+      "value": "Delivery",
+      "href": "https://example.com/chernivtsi-space/bolt-food",
+      "type": "bolt-food"
+    },
+    {
+      "label": "Glovo",
+      "value": "Delivery",
+      "href": "https://example.com/chernivtsi-space/glovo",
+      "type": "glovo"
+    }
+  ]
+}
